@@ -1,5 +1,5 @@
-# i_am_rich
+# I Am Rich
 
-I am rich - Flutter app project
+I Am Rich - Flutter app project
 
 This app does absolutely nothing. Just a Flutter app example
